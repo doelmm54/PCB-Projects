@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://i.imgur.com/Ijel9SO.jpeg alt="logo" width=400 height=401 /> 
+![PCB Project IMG](https://raw.githubusercontent.com/doelmm54/PCB-Projects/main/images/IMG_4193.jpg)
 
 <h1>Documentation and shared Projects</h1>
 <p>Here will be shared all the documentation, some will include source code to the boards, feel free to explore.</p>
