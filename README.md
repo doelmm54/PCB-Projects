@@ -1,6 +1,6 @@
 <div align='center'>
 
-![PCB Project IMG](https://raw.githubusercontent.com/doelmm54/PCB-Projects/main/images/IMG_4193.jpg)
+![PCB Project IMG](https://raw.githubusercontent.com/doelmm54/Tech_Projects/main/images/IMG_4193.jpg)
 
 <h1>Documentation and shared Projects</h1>
 <p>Here will be shared all the documentation, some will include source code to the boards, feel free to explore.</p>
@@ -21,20 +21,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://i.imgur.com/yxB1DzN.jpeg" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/BuUDmaw.jpeg" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/zt75BBB.jpeg" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/39ZRtTe.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/LGpqtMq.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/7vWWVzA.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/jPajb32.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/wCyzVb6.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/r1nBnQu.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/N9BuJxy.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/c3zadJu.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/VRb7tOO.png" alt='image' width='500'/></a> </div>
-<div align="center"> <a href=""><img src="https://i.imgur.com/69y6Bz7.png" alt='image' width='500'/></a> </div>
-
+<img src="https://raw.githubusercontent.com/doelmm54/PCB-Projects/main/images/IMG_4193.jpg" alt="PCB Project IMG" width="500" />
 
 
 
